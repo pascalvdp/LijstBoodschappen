@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/holo_green_dark"
+    tools:context=".MainActivity">
+
+
+
+</LinearLayout>
+
+    <!--
+    <FrameLayout
+            android:id="@+id/frmLayoutTitle"
+            android:layout_width="215dp"
+            android:layout_height="145dp"
+            android:background="#FFC107"
+            android:clickable="true"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="163dp"
+            tools:layout_editor_absoluteY="134dp">
+
+        </FrameLayout>
+
+    android:id="@+id/linearLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="left"
+        android:orientation="vertical">
+
+    -->
