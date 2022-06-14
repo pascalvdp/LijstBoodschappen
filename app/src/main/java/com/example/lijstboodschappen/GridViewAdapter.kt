@@ -10,7 +10,7 @@ class GridViewAdapter internal constructor(var ctx: Context) : GridView(ctx) {
 
     init {
         var numColumns = 3
-        setNumColumns(numColumns)
+        setNumColumns(numColumns) //tt
         val params =
             LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT)
         //params.gravity = Gravity.LEFT;

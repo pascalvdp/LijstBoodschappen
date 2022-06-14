@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var but: Button
     //var but = Button(this) //dit is niet ok op deze positie
 
-    override fun onCreate(savedInstanceState: Bundle?) {
+    override fun onCreate(savedInstanceState: Bundle?) { //ttttt
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
